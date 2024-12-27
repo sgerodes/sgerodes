@@ -2,8 +2,8 @@
 - 🔭 Currently Senior Blockchain Engineer in  in the [G6 project](https://www.g6.network/). Working with Rust, Substrate, Python and Typescript
 - 🌱 I’m currently learning Zig and [JAM](https://wiki.polkadot.network/docs/learn-jam-chain)
 - ⚡ Passionate about web3 and blockchains
-- President of [Pretzel DAO](https://pretzeldao.com/). A community for web3 builders in Munich
-- Take a look at my [Portfolio](https://sergeygerodes.xyz/)
+- 🥨 President of [Pretzel DAO](https://pretzeldao.com/). A community for web3 builders in Munich
+- 💼 Take a look at my [Portfolio](https://sergeygerodes.xyz/)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgerodes/)
